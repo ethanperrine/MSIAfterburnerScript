@@ -1,0 +1,12 @@
+{
+    "afterburner_path": "C:\\Program Files (x86)\\MSI Afterburner\\MSIAfterburner.exe",
+    "profile_on": "-Profile5",
+    "profile_off": "-Profile1",
+    "delay_seconds": 15,
+    "monitoring_mode": "event",
+    "overrides": {
+        "cs2.exe": "-Profile5",
+		"gmod": "-Profile1",
+		"gtav": "-Profile2",
+    }
+}
